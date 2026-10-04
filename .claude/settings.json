@@ -1,0 +1,14 @@
+{
+  "extraKnownMarketplaces": {
+    "banana-claude-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "AgriciDaniel/banana-claude",
+        "ref": "v3.0.0"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "banana-claude@banana-claude-marketplace": true
+  }
+}
